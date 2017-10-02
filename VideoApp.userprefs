@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{11E9FAD2-1DA1-4ED0-ABA9-F8A37161F4DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Library/Frameworks/Xamarin.Android.framework/Versions/7.4.5-1/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets">
+    <Files>
+      <File FileName="Camera2VideoSample/Resources/Resource.designer.cs" Line="29" Column="63" />
+      <File FileName="../../../Library/Frameworks/Xamarin.Android.framework/Versions/7.4.5-1/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1046" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VideoApp AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.44e9ec4c" />
+</Properties>
